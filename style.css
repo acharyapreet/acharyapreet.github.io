@@ -1,0 +1,76 @@
+#first_page,#third_page{
+    height: 730px;
+}
+#second_page{
+    background-color: #d9dce1;
+    height: 730px;
+}
+.social-icons a {
+    font-size: 30px;
+    /* margin: 10px; */
+    color: black;
+    text-decoration: none;
+}
+#heading_text{
+    padding: 10px;
+    background-color: #c9cad3;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 800px;
+    top: 70px;
+
+}
+
+.social-icons a:hover {
+    color: #0073b1; /* Change color on hover for LinkedIn */
+}
+
+.social-icons .email:hover {
+    color: #d14836; /* Hover color for email */
+}
+
+.social-icons .github:hover {
+    color: #6c6969; /* Hover color for GitHub */
+}
+#preetImage{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 850px;
+    top: 110px;
+}
+#heading{
+   position: absolute;
+   left: 600px;
+}
+#first_page_button button{
+    background-color: #6E2594;
+    margin: 10px;
+    font-size: 30px;
+    border: none;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+#first_page_button button:hover{
+    background-color: #521b70;
+}
+#first_page_button{
+    position: absolute;
+    left: 160px;
+    top: 400px;
+}
+#about{
+    max-width: 750px;
+    position: absolute;
+    top: 180px;
+    margin: 35px;
+}
+/* #projectTodoList{
+    position: absolute;
+} */
+#projectHeading{
+    position: relative;
+    left: 650px;
+}
